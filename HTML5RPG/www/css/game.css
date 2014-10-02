@@ -1,0 +1,21 @@
+@-ms-viewport {
+    user-zoom:fixed;
+    max-zoom:2;
+    min-zoom:2;
+}
+
+body,html {
+    margin: 0;
+    overflow: hidden;
+    -ms-content-zooming: none;
+    -ms-overflow-style: none !important;
+    position : absolute;
+    left : 0;
+    top : 0;
+    background-color : #A8A8A8;
+    font-family : Geo;
+	font-size : 40px;
+    width : 720px;
+    height : 480px;
+    color : rgb(200,200,100);
+}

@@ -1,0 +1,14 @@
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\ApplicationIcon.png
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\Background.png
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\HTML5RPG.dll
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\HTML5RPG.pdb
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\AppManifest.xaml
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\Properties\WMAppManifest.xml
+C:\GitHub\HTML5RPG\HTML5RPG\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\App.g.cs
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\cordovalib\CordovaView.g.cs
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\MainPage.g.cs
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\HTML5RPG.g.resources
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\HTML5RPG.dll
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\HTML5RPG.pdb
+C:\GitHub\HTML5RPG\HTML5RPG\obj\Debug\XapCacheFile.xml
